@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-302b94c7754f251a6ba3da5d348629bb9a65bedb.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-12287fdbff5c2c256c6c22c1bcf78e2674f73885.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/exploded-aar/Authentication/facebook/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="034acb18e907dd11900988a33733bb29b32484b3">
+        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/classes-d1b703a21e832bdf1d02dcea34215da6ecd56149.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/classes-ec470b2c6102ac770ac9701e84e52ced38d90191.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/exploded-aar/Authentication/facebook/unspecified/libs/bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
+        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-414ef1ea8c37a27d4666dc0a864ae3d9aff02bbf.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/Authentication/app/libs/volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/volley-68ad2a54a757655d3e14fe5d879d7042cbe1cb7e.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/classes-e89902a848776a7640e57f99cf7ce24c7f784092.jar" />
+    </item>
+
+</items>

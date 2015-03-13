@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Authentication</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title">Alert</string>
+    <string name="host">http://wunhunt.sflashcard.com/plusauthentication</string>
+    <string name="facebook_app_id">623444301110102</string>
+    <string-array name="permission">
+        <item>publish_actions</item>
+        <item>user_friends</item>
+    </string-array>
+
+</resources>

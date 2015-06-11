@@ -2,53 +2,193 @@
 <items version="2" >
 
     <item
-        jar="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-302b94c7754f251a6ba3da5d348629bb9a65bedb.jar" />
-    </item>
-    <item
-        jar="/Users/thanhhaitran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-12287fdbff5c2c256c6c22c1bcf78e2674f73885.jar" />
-    </item>
-    <item
-        jar="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/exploded-aar/Authentication/facebook/unspecified/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="034acb18e907dd11900988a33733bb29b32484b3">
-        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/classes-d1b703a21e832bdf1d02dcea34215da6ecd56149.jar" />
-    </item>
-    <item
-        jar="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/classes-ec470b2c6102ac770ac9701e84e52ced38d90191.jar" />
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-6c767e70fbe1c514ecd984029e8ff495f48cd337.jar" />
     </item>
     <item
-        jar="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/exploded-aar/Authentication/facebook/unspecified/libs/bolts-android-1.1.2.jar"
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-c1805847491bb53d6155f04b83cd5a0c92b0368d.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-8ebc4e6fc59e5da1d404ebcef5d3b4832408ae32.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-68a180d19cc6770625a047927d38d2e71d89d379.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-f68561732a00da2bbec88f2df576b6730252ee98.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-81bcdb9d269fa9cb70888d01c9c716e6e49156d0.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-245e9ecebe643c2b8219b643bb528c1d0014bf04.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-408965054dc3927b8359ad7bdb94f34dbd923769.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-b26c2ae42d7185ad51ed00219308b32c26546b98.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-0217fbc4f01c566f3eadc75890b3b562d5911393.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-d05e354d24f5dd2e918a635ca2b68823747aac9e.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-cde35e5626ce60980c9ba2127023a07558c68376.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-82c262c560cacc41afd992acb60480d3b8fa9550.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-325c9b9163349eaeaa937973767ac7a88c132fdf.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/Authentication/facebook/unspecified/libs/bolts-android-1.1.2.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7">
-        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-414ef1ea8c37a27d4666dc0a864ae3d9aff02bbf.jar" />
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-3549fedf6cec6d99722737c62bd03398c3afb9a0.jar" />
     </item>
     <item
-        jar="/Users/thanhhaitran/Desktop/Authentication/app/libs/volley.jar"
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/libs/gcm.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
-        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/volley-68ad2a54a757655d3e14fe5d879d7042cbe1cb7e.jar" />
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/gcm-c0b23d710c03d17c9ed7279a40e2f4cc5599c290.jar" />
     </item>
     <item
-        jar="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/thanhhaitran/Desktop/Authentication/app/build/intermediates/pre-dexed/debug/classes-e89902a848776a7640e57f99cf7ce24c7f784092.jar" />
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-4ee02764610338d26a92d5f2a6318d2a8fb735ee.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-6e2028f0f3fed3cab22bf4c212424f895aa63377.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/Authentication/facebook/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6b96a4e9f72d3ec0a767e0956a8f5790c688433">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-d9b858d56c76b808f131e54961c7b8552d781020.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-41633600d96b621803b0c0f3afb4dd86aebe4724.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-cbf84f60dd3435882cc8765b9fe19c1804672719.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-2ac097c7bad964022e00194ba468f7b38da724fa.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-dc7d0b71ebd46163c1cd4884d0f387fd3970d9d5.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-83cfa2bbcf64f92594dbc3461bb7e65dc1115887.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-0076dca3b12e145c48cfc4cca1aacffb16444065.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-9206a3d82efefa7c05391500bf22217cbe046395.jar" />
+    </item>
+    <item
+        jar="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/thanhhaitran/Desktop/ANDROID_LIBRARY/Authentication/app/build/intermediates/pre-dexed/debug/classes-80ceba8f9a81d376fdfdc93e5e8ce0c64299e81a.jar" />
     </item>
 
 </items>

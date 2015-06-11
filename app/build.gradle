@@ -1,11 +1,21 @@
-apply plugin: 'com.android.application'
+//apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 21
+    compileSdkVersion 17
     buildToolsVersion "21.1.2"
 
+//    sourceSets {
+//        main {
+//            //Path to your source code
+//            java {
+//                srcDir 'src/main/java'
+//            }
+//        }
+//    }
+
     defaultConfig {
-        applicationId "com.example.authentication.authentication"
+        //applicationId "com.authentication"
         minSdkVersion 10
         targetSdkVersion 21
         versionCode 1
@@ -21,7 +31,25 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:support-v4:+'
+    compile 'com.google.android.gms:play-services:+'
     compile 'com.android.support:appcompat-v7:21.0.3'
-    //compile 'eu.the4thfloor.volley:com.android.volley:2015.02.02'
-    compile project(':facebook')
 }
+
+apply from: '../maven_push.gradle'
+
+
+//task deleteOldJar(type: Delete) {
+//    delete 'build/libs/Authentication.jar'
+//}
+//
+////task to export contents as jar
+//task exportJar(type: Copy) {
+//    from('build/intermediates/bundles/release/')
+//    into('release/')
+//    include('classes.jar')
+//    ///Give whatever name you want to give
+//    rename('classes.jar', 'Authentication.jar')
+//}
+//
+//exportJar.dependsOn(deleteOldJar, build)
